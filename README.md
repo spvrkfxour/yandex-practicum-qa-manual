@@ -1,0 +1,1 @@
+# yandex-practicum-qa-manual
