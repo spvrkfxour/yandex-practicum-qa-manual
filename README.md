@@ -18,7 +18,12 @@
 ## Спринт 3
 Функциональное и регресcионное тестирование мобильного приложения на Android Яндекс Метро<br/>
 [Требования](https://code.s3.yandex.net/qa/files/Yandex_metro.pdf), [Тестовый набор](https://docs.google.com/spreadsheets/d/1e0vQeZfMyBlM9r-5T1OuRC0ZygKY1GrgVvaxsnfHj6Q/edit?usp=sharing), [Баг-репорты](https://docs.google.com/spreadsheets/d/1foBdTju-QrH9_QpYSfve_FUOf5A5JpiiLj4s81n3cq0/edit?usp=sharing)<br/>
-
+* модели разработки, жизненный цикл приложения и бага
+* баг-репорты в Yandex Tracker
+* архитектура и жизненный цикл мобильных приложений
+* работа с Android Studio
+* adb и особенности тестирования мобильных приложений
+* логи adb и Android Studio<br/>
 ## Спринт 4
 
 ## Спринт 5
