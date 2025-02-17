@@ -10,12 +10,15 @@
 ## Спринт 2
 Продолжение тестирования Яндекс Маршрутов<br/>
 [Требования](https://praktikum.notion.site/74dd6e68fda34387ac4d43137a601c6e), [Тестовый набор](https://docs.google.com/spreadsheets/d/1aq4q6NeOtpziNE6z4_5asxSxJ_6taHT0DiAKWbEN1Vk/edit?usp=sharing)<br/>
+* теория тестирования
 * баг-репорты в YouTrack
 * кроссплатформенное и кроссбраузерное тестирование
 * работа с DevTools
 * применение техник КЭ и ГЗ, позитивного и негативного тестирования, таблицы принятия решений, техники попарного тестирования
 * http/https<br/>
 ## Спринт 3
+Функциональное и регресcионное тестирование мобильного приложения на Android Яндекс Метро<br/>
+[Требования](https://code.s3.yandex.net/qa/files/Yandex_metro.pdf), [Тестовый набор](https://docs.google.com/spreadsheets/d/1e0vQeZfMyBlM9r-5T1OuRC0ZygKY1GrgVvaxsnfHj6Q/edit?usp=sharing), [Баг-репорты](https://docs.google.com/spreadsheets/d/1foBdTju-QrH9_QpYSfve_FUOf5A5JpiiLj4s81n3cq0/edit?usp=sharing)<br/>
 
 ## Спринт 4
 
