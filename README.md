@@ -4,7 +4,7 @@
 Функциональное тестирование сервиса Яндекс Маршруты. Сервис строит маршрут и рассчитывает стоимость поездки для каршеринга, такси или собственного автомобиля<br/>
 [Требования](https://docs.google.com/document/d/1tIs3KqK79vGR60EoGiDKLavvgsj0cjjrdSRK3AFdY6g/edit?usp=sharing), [Тестовый стенд](https://qa-routes.praktikum-services.ru/), [Тестовый набор](https://docs.google.com/spreadsheets/d/1vUuNUyvECiZnBsQOvky80P60wTMM4lOocjp7UtdW4Yc/edit?usp=sharing)<br/>
 * анализ и декомпозиция требований
-* mindmap для визуализации требований
+* Mindmap для визуализации требований
 * составление тест-кейсов
 * применение техник КЭ и ГЗ<br/>
 ## Спринт 2
@@ -22,10 +22,17 @@
 * баг-репорты в Yandex Tracker
 * архитектура и жизненный цикл мобильных приложений
 * работа с Android Studio
-* adb и особенности тестирования мобильных приложений
-* логи adb и Android Studio<br/>
+* ADB и особенности тестирования мобильных приложений
+* логи ADB и Android Studio<br/>
 ## Спринт 4
-
+Тестирование API Яндекс Прилавка<br/>
+[Требования](https://code.s3.yandex.net/qa/files/backend_requirements.pdf), [Тестовый набор](https://docs.google.com/spreadsheets/d/1eVQZmIkPmNL1fLmOg0iveWUB6jUBw0jQBYeHOEuRdtA/edit?usp=sharing), [Баг-репорты](https://docs.google.com/spreadsheets/d/1O3qup12A0uGtYmpPwFRrGpXpT7BvTlfY0JsnpD89urI/edit?usp=sharing)<br/>
+* архитектура приложения, REST и SOAP
+* работа с Postman, Swagger, Apidoc
+* структура запросов и ответов, HTTP, HTTPS, методы запросов
+* JSON, XML, XSD, WSDL и неймспейсы
+* Linux
+* виды тестирования<br/>
 ## Спринт 5
 
 ## Диплом
