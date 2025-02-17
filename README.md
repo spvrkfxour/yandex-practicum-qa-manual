@@ -39,5 +39,5 @@
 * основные операторы SQL
 * SQL Join<br/>
 ## Диплом
-Тестирование веб-приложения, мобильного приложения и API Яндекс Самокат<br/>
+Тестирование веб-приложения, мобильного приложения и API Яндекс Самоката<br/>
 [Требования веб-приложения](https://code.s3.yandex.net/qa/files/requirements_web_app_1.1.pdf), [Требования мобильного приложения](https://code.s3.yandex.net/qa/files/requirements_mob_app.pdf), [Требования API](https://code.s3.yandex.net/qa/files/requirements_backend.pdf), [Тестовый набор](https://docs.google.com/spreadsheets/d/1a9lihVWwrejLaXv9UCs8sTZPJL27nLe7rxdUvVsbUgs/edit?usp=sharing), [Баг-репорты](https://docs.google.com/spreadsheets/d/12z0rYH71nohuRHaF_lZBPqsC9KaQf_L7sSzAdmy1TjE/edit?usp=sharing)<br/>
