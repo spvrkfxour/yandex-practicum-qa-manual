@@ -13,7 +13,7 @@
 * теория тестирования
 * баг-репорты в YouTrack
 * кроссплатформенное и кроссбраузерное тестирование
-* работа с DevTools
+* DevTools
 * применение техник КЭ и ГЗ, позитивного и негативного тестирования, таблицы принятия решений, техники попарного тестирования<br/>
 ## Спринт 3
 Функциональное и регресcионное тестирование мобильного приложения на Android Яндекс Метро<br/>
@@ -21,18 +21,24 @@
 * модели разработки, жизненный цикл приложения и бага
 * баг-репорты в Yandex Tracker
 * архитектура и жизненный цикл мобильных приложений
-* работа с Android Studio
+* Android Studio
 * ADB и особенности тестирования мобильных приложений
 * логи ADB и Android Studio<br/>
 ## Спринт 4
 Тестирование API Яндекс Прилавка<br/>
 [Требования](https://code.s3.yandex.net/qa/files/backend_requirements.pdf), [Тестовый набор](https://docs.google.com/spreadsheets/d/1eVQZmIkPmNL1fLmOg0iveWUB6jUBw0jQBYeHOEuRdtA/edit?usp=sharing), [Баг-репорты](https://docs.google.com/spreadsheets/d/1O3qup12A0uGtYmpPwFRrGpXpT7BvTlfY0JsnpD89urI/edit?usp=sharing)<br/>
 * архитектура приложения, REST и SOAP
-* работа с Postman, Swagger, Apidoc
+* Postman, Swagger, Apidoc
 * структура запросов и ответов, HTTP, HTTPS, методы запросов
 * JSON, XML, XSD, WSDL и неймспейсы
 * Linux
 * виды тестирования<br/>
 ## Спринт 5
-
+Модуль по базам данных<br/>
+* Linux
+* Charles
+* основные операторы SQL
+* SQL Join<br/>
 ## Диплом
+Тестирование веб-приложения, мобильного приложения и API Яндекс Самокат<br/>
+[Требования веб-приложения](https://code.s3.yandex.net/qa/files/requirements_web_app_1.1.pdf), [Требования мобильного приложения](https://code.s3.yandex.net/qa/files/requirements_mob_app.pdf), [Требования API](https://code.s3.yandex.net/qa/files/requirements_backend.pdf), [Тестовый набор](https://docs.google.com/spreadsheets/d/1a9lihVWwrejLaXv9UCs8sTZPJL27nLe7rxdUvVsbUgs/edit?usp=sharing), [Баг-репорты](https://docs.google.com/spreadsheets/d/12z0rYH71nohuRHaF_lZBPqsC9KaQf_L7sSzAdmy1TjE/edit?usp=sharing)<br/>
